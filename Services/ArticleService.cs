@@ -43,7 +43,7 @@ public class ArticleService
 
         command.Parameters.AddWithValue("@title", article.Title);
         command.Parameters.AddWithValue("@content", article.Content);
-        command.Parameters.AddWithValue("@updatedAt", article.UpdatedAt);
+        command.Parameters.AddWithValue("@updatedAt", DateTime.Now);
         command.Parameters.AddWithValue("@id", article.Id);
 
         connection.Open(); 

@@ -38,15 +38,15 @@ public class ConsoleMenu
                     break;
                 case "3":
                     Console.WriteLine("\n=== DETAIL CLIENT ===");
-                    
+                    ConsoleHelper.GetArticleDetailById();
                     break;
                 case "4":
                     Console.WriteLine("\n=== MODIFICATION ARTICLE ===");
-                    
+                    ConsoleHelper.UpdateArticle();
                     break;
                 case "5":
                     Console.WriteLine("\n=== SUPPRESSION ARTICLE ===");
-                    
+                    ConsoleHelper.DeleteArticle();
                     break;
                 case "6":
                     Console.WriteLine("\n=== CREATION COMMENT ===");
