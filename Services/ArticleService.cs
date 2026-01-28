@@ -17,7 +17,7 @@ public class ArticleService
 
     public Article Create(Article article)
     {
-        string request = "INSERT INTO article (title, content, createdAt) VALUES (@title, @conetnt, @createdAt)";
+        string request = "INSERT INTO article (title, content, createdAt) VALUES (@title, @content, @createdAt)";
         
         using MySqlConnection connection = DataConnection.GetConnection();
         using MySqlCommand command = new MySqlCommand(request, connection);

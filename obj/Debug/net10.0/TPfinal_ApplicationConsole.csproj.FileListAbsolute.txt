@@ -34,3 +34,4 @@ C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_Applic
 C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\TPfinal_ApplicationConsole.pdb
 C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\TPfinal_ApplicationConsole.genruntimeconfig.cache
 C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\ref\TPfinal_ApplicationConsole.dll
+C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\TPfinal_ApplicationConsole.sourcelink.json

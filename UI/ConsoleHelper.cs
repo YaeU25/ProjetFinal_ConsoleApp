@@ -38,10 +38,10 @@ public class ConsoleHelper
 
     public static Article SaisirArticle()
     {
-        Console.Write("Saisir un titre: ");
+        Console.WriteLine("Saisir un titre: ");
         string title = Console.ReadLine() ?? "";
 
-        Console.Write("Saisir un content: ");
+        Console.WriteLine("Saisir un content: ");
         string content = Console.ReadLine() ?? "";
 
         DateTime createdAt = DateTime.Now;
