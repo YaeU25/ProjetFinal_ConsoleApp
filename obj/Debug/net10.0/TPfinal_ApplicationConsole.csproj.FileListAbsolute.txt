@@ -1,8 +1,3 @@
-C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\TPfinal_ApplicationConsole.csproj.AssemblyReference.cache
-C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\TPfinal_ApplicationConsole.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\TPfinal_ApplicationConsole.AssemblyInfoInputs.cache
-C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\TPfinal_ApplicationConsole.AssemblyInfo.cs
-C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\TPfinal_ApplicationConsole.csproj.CoreCompileInputs.cache
 C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\bin\Debug\net10.0\TPfinal_ApplicationConsole.exe
 C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\bin\Debug\net10.0\TPfinal_ApplicationConsole.deps.json
 C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\bin\Debug\net10.0\TPfinal_ApplicationConsole.runtimeconfig.json
@@ -28,10 +23,15 @@ C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_Applic
 C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
 C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\TPfinal_ApplicationConsole.csproj.AssemblyReference.cache
+C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\TPfinal_ApplicationConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\TPfinal_ApplicationConsole.AssemblyInfoInputs.cache
+C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\TPfinal_ApplicationConsole.AssemblyInfo.cs
+C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\TPfinal_ApplicationConsole.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\TPfinal_ApplicationConsole.sourcelink.json
 C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\TPfinal_.20951541.Up2Date
 C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\TPfinal_ApplicationConsole.dll
 C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\refint\TPfinal_ApplicationConsole.dll
 C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\TPfinal_ApplicationConsole.pdb
 C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\TPfinal_ApplicationConsole.genruntimeconfig.cache
 C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\ref\TPfinal_ApplicationConsole.dll
-C:\Users\Administrateur\OneDrive - M2I\TPfinal_ApplicationConsole\TPfinal_ApplicationConsole\obj\Debug\net10.0\TPfinal_ApplicationConsole.sourcelink.json
