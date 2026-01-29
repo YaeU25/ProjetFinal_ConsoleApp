@@ -8,6 +8,7 @@ public class ConsoleMenu
 {
     public void Menu()
     {
+        Console.WriteLine("====== BLOG CONSOLE ======");
         Console.WriteLine("\n1. Lister les articles");
         Console.WriteLine("2. Creer un article");
         Console.WriteLine("3. Voir un article");
@@ -23,7 +24,7 @@ public class ConsoleMenu
         while (true)
         {
             Menu();
-            Console.Write("\nChoix: ");
+            Console.Write("\nVotre Choix : ");
             string choix = Console.ReadLine() ?? "";
 
             switch (choix)
