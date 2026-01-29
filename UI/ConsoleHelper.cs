@@ -131,4 +131,63 @@ public class ConsoleHelper
         Console.WriteLine(article.ToString());
         article.Comments.ForEach(c => Console.WriteLine($"\t{c}"));
     }
+
+    public static void CreateComment()
+    {
+        Comment comment = RequestCommentCreate();
+
+        CommentService commentService = new CommentService();
+
+        try
+        {
+            commentService.Create(comment);
+            Console.WriteLine($"{comment.Content} : {comment.Author} enregistré(e)");
+        }
+        catch (Exception)
+        {
+            Console.WriteLine("Une erreur s'est produite lors de l'enregistrement");
+        }
+
+    }
+
+    public static Comment RequestCommentCreate()
+    {
+
+        Console.WriteLine("Saisir un ID d'un article pour commenter: ");
+        int articleId = int.Parse(Console.ReadLine() ?? null!);
+        Console.WriteLine("Saisir un author: ");
+        string author = Console.ReadLine() ?? "";
+        Console.WriteLine("Saisir un content: ");
+        string content = Console.ReadLine() ?? "";
+
+        DateTime createdAt = DateTime.Now;
+
+        return new Comment(articleId, author, content, createdAt);
+    }
+
+    public static void DeleteComment()
+    {
+        Console.Write("Saisir l'ID d'un article: ");
+        int.TryParse(Console.ReadLine(), out int id);
+
+        CommentService commentService = new CommentService();
+
+        Comment? comment = commentService.GetById(id);
+
+        if (comment is null)
+        {
+            Console.WriteLine($"Aucun comment trouvé avec l'id {id}");
+            return;
+        }
+
+        try
+        {
+            commentService.Delete(comment);
+            Console.WriteLine($"Comment supprimé");
+        }
+        catch (Exception)
+        {
+            Console.WriteLine("Une erreur s'est produite lors de l'enregistrement");
+        }
+    }
 }

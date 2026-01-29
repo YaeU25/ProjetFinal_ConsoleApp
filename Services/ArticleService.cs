@@ -54,8 +54,8 @@ public class ArticleService
     }
     public bool Delete(Article article)
     {
-        //ComentService commentService = new ComentService();
-        //ComentService.DeleteAllCommandsOfAClient(article);
+        CommentService commentService = new CommentService();
+        commentService.DeleteAllCommentsByArticle(article);
 
         request = "DELETE FROM article WHERE id=@id";
 
@@ -97,8 +97,8 @@ public class ArticleService
 
         if(article is not null)
         {
-            //ComentService commentService = new ComentService();
-            //ComentService.GetAllCommandsOfAClient(article);
+            CommentService commentService = new CommentService();
+            article.Comments = commentService.GetAllCommentsByArticle(article);
         }
 
         return article;

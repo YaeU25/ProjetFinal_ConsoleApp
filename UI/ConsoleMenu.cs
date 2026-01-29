@@ -50,11 +50,11 @@ public class ConsoleMenu
                     break;
                 case "6":
                     Console.WriteLine("\n=== CREATION COMMENT ===");
-                    
+                    ConsoleHelper.CreateComment();
                     break;
                 case "7":
                     Console.WriteLine("\n=== SUPPRESSION COMMENT ===");
-                    
+                    ConsoleHelper.DeleteComment();
                     break;
                 case "0":
                     Environment.Exit(0);
